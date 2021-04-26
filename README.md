@@ -3,9 +3,6 @@
 [![Top Languages I've Worked!](https://github-readme-stats.vercel.app/api/top-langs/?username=brisag&layout=compact)](https://github.com/brisag/github-readme-stats)
 
 
-[![Jesus G Quezada-Guillen's GitHub stats](https://github-readme-stats.vercel.app/api?username=brisag)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 <!--
 **brisag/brisag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
