@@ -10,8 +10,8 @@
   
 <a  href="https://github.com/SP-XD"> 
   
-<img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=brisag&show_icons=true&count_private=true&hide_border=true&theme=yeblu" href="https://github.com/sp-xd" />
-<img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brisag&layout=compact&count_private=true&&hide_border=true&theme=yeblu&hide=jupyter%20notebook&langs_count=5" href="https://github.com/sp-xd" />
+[![Top Languages I've Worked!](https://github-readme-stats.vercel.app/api/top-langs/?username=brisag&layout=compact)](https://github.com/brisag/github-readme-stats)
+
 
 </a>
 <hr></hr>
