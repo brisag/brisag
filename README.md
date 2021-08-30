@@ -39,10 +39,11 @@
 
 
 <h3 align="center"> Let's get connected 🔗</h3>
+
 [![Gmail Badge](https://img.shields.io/badge/-brisagarciaglz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brisagarciaglz@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-brisa-garcia?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brisa-garcia/ "Connect on LinkedIn")
-<hr></hr>
 
+<hr></hr>
 
 <!--
 **brisag/brisag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
