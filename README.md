@@ -1,7 +1,6 @@
 
 <h3 align="center">
   Welcome!  My name is Brisa and I am a software engineer 😁
-<iframe src="https://giphy.com/embed/xT4uQDvSwy2pgXc8dG" width="50"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bird-budgie-paraqueet-xT4uQDvSwy2pgXc8dG">via GIPHY</a></p>
   </h3>
 
 
