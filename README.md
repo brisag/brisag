@@ -1,8 +1,8 @@
 
 <h3 align="center">
   Welcome!  My name is Brisa and I am a software engineer 😁
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</h3>
+<iframe src="https://giphy.com/embed/xT4uQDvSwy2pgXc8dG" width="50"  frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bird-budgie-paraqueet-xT4uQDvSwy2pgXc8dG">via GIPHY</a></p>
+  </h3>
 
 
 
@@ -40,9 +40,10 @@
 
 
 <h3 align="center"> Let's get connected 🔗</h3>
-
+<h3 align="center">
 [![Gmail Badge](https://img.shields.io/badge/-brisagarciaglz@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:brisagarciaglz@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-brisa-garcia?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/brisa-garcia/ "Connect on LinkedIn")
+  </h3>
 <hr></hr>
 
 
